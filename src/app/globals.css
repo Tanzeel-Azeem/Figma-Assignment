@@ -1,0 +1,42 @@
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
+.hero-image{
+     /* border-top-left-radius: 60px; 
+    border-bottom-right-radius :60px;   */
+    position: relative;
+    margin-top: 20px;
+    margin-left: 14rem;
+    background-image: none;
+}
+
+.hero-text {
+    position: absolute;
+    color:white;
+    top: 2%;
+    font-weight: bold;
+    left:1%;
+    
+  
+    font-family:'sans-serif'
+} 
+
+
+.image-container{
+    position: relative;
+
+}
+.text{
+    position: absolute;
+    top: 9%;
+    
+    /* transform: translate(-50%,-50%); */
+    /* color: white; */
+    /* z-index: 1; */
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+    left:20px;
+    
+    /* font-size:xx-large; */
+    /* font-weight: 100; */
+}
