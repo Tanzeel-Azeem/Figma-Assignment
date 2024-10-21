@@ -20,7 +20,7 @@ const Hero = () => {
          />
           <div className='hero-text'>
         <h1> 
-            Let's make your <br />
+            Let`s make your <br />
              Home Beautiful together</h1>
              <p >There are many variation of the passage <br />
              of lorem ipsum from majority</p>
